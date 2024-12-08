@@ -1,0 +1,17 @@
+{
+    "name": "Core.Runtime",
+    "rootNamespace": "Core.Runtime",
+    "references": [
+        "chainsafe.web3-unity",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
